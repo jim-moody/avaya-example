@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jim-moody.github.io/avaya-example/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jim-moody.github.io/avaya-example/static/js/main.300deda1.chunk.js",
+    "main.js.map": "/jim-moody.github.io/avaya-example/static/js/main.300deda1.chunk.js.map",
+    "runtime-main.js": "/jim-moody.github.io/avaya-example/static/js/runtime-main.97eab0ed.js",
+    "runtime-main.js.map": "/jim-moody.github.io/avaya-example/static/js/runtime-main.97eab0ed.js.map",
+    "static/js/2.d3bdd806.chunk.js": "/jim-moody.github.io/avaya-example/static/js/2.d3bdd806.chunk.js",
+    "static/js/2.d3bdd806.chunk.js.map": "/jim-moody.github.io/avaya-example/static/js/2.d3bdd806.chunk.js.map",
+    "static/js/3.558c999e.chunk.js": "/jim-moody.github.io/avaya-example/static/js/3.558c999e.chunk.js",
+    "static/js/3.558c999e.chunk.js.map": "/jim-moody.github.io/avaya-example/static/js/3.558c999e.chunk.js.map",
+    "index.html": "/jim-moody.github.io/avaya-example/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jim-moody.github.io/avaya-example/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d3bdd806.chunk.js.LICENSE.txt": "/jim-moody.github.io/avaya-example/static/js/2.d3bdd806.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jim-moody.github.io/avaya-example/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97eab0ed.js",
+    "static/js/2.d3bdd806.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.300deda1.chunk.js"
+  ]
+}
