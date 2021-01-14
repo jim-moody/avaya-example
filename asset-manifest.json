@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jim-moody.github.io/avaya-example/static/css/main.1b10506c.chunk.css",
-    "main.js": "/jim-moody.github.io/avaya-example/static/js/main.e5149866.chunk.js",
-    "main.js.map": "/jim-moody.github.io/avaya-example/static/js/main.e5149866.chunk.js.map",
-    "runtime-main.js": "/jim-moody.github.io/avaya-example/static/js/runtime-main.8845b547.js",
-    "runtime-main.js.map": "/jim-moody.github.io/avaya-example/static/js/runtime-main.8845b547.js.map",
-    "static/js/2.79b4313c.chunk.js": "/jim-moody.github.io/avaya-example/static/js/2.79b4313c.chunk.js",
-    "static/js/2.79b4313c.chunk.js.map": "/jim-moody.github.io/avaya-example/static/js/2.79b4313c.chunk.js.map",
-    "static/js/3.f6ea10e7.chunk.js": "/jim-moody.github.io/avaya-example/static/js/3.f6ea10e7.chunk.js",
-    "static/js/3.f6ea10e7.chunk.js.map": "/jim-moody.github.io/avaya-example/static/js/3.f6ea10e7.chunk.js.map",
-    "index.html": "/jim-moody.github.io/avaya-example/index.html",
-    "static/css/main.1b10506c.chunk.css.map": "/jim-moody.github.io/avaya-example/static/css/main.1b10506c.chunk.css.map",
-    "static/js/2.79b4313c.chunk.js.LICENSE.txt": "/jim-moody.github.io/avaya-example/static/js/2.79b4313c.chunk.js.LICENSE.txt"
+    "main.css": "/avaya-example/static/css/main.1b10506c.chunk.css",
+    "main.js": "/avaya-example/static/js/main.e5149866.chunk.js",
+    "main.js.map": "/avaya-example/static/js/main.e5149866.chunk.js.map",
+    "runtime-main.js": "/avaya-example/static/js/runtime-main.cff882fe.js",
+    "runtime-main.js.map": "/avaya-example/static/js/runtime-main.cff882fe.js.map",
+    "static/js/2.79b4313c.chunk.js": "/avaya-example/static/js/2.79b4313c.chunk.js",
+    "static/js/2.79b4313c.chunk.js.map": "/avaya-example/static/js/2.79b4313c.chunk.js.map",
+    "static/js/3.f6ea10e7.chunk.js": "/avaya-example/static/js/3.f6ea10e7.chunk.js",
+    "static/js/3.f6ea10e7.chunk.js.map": "/avaya-example/static/js/3.f6ea10e7.chunk.js.map",
+    "index.html": "/avaya-example/index.html",
+    "static/css/main.1b10506c.chunk.css.map": "/avaya-example/static/css/main.1b10506c.chunk.css.map",
+    "static/js/2.79b4313c.chunk.js.LICENSE.txt": "/avaya-example/static/js/2.79b4313c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8845b547.js",
+    "static/js/runtime-main.cff882fe.js",
     "static/js/2.79b4313c.chunk.js",
     "static/css/main.1b10506c.chunk.css",
     "static/js/main.e5149866.chunk.js"
