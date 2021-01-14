@@ -1,15 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <aimport { useState } from "react";
+import { useState } from "react";
 import "./App.css";
 import { TextField } from "@material-ui/core";
 import notes from "./notes.js";
@@ -37,20 +26,6 @@ function App() {
       {notes.map((note) => {
         return <div className="note">{note.body}</div>;
       })}
-    </div>
-  );
-}
-
-export default App;
-
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
     </div>
   );
 }
