@@ -22,7 +22,6 @@ function App() {
         onChange={handleChange1}
         multiline
       />
-      <input type="text" value={value2} onChange={handleChange2} />
       {notes.map((note) => {
         return <div className="note">{note.body}</div>;
       })}
