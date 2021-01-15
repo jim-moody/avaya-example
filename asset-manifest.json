@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/avaya-example/static/css/main.1b10506c.chunk.css",
-    "main.js": "/avaya-example/static/js/main.e5149866.chunk.js",
-    "main.js.map": "/avaya-example/static/js/main.e5149866.chunk.js.map",
+    "main.js": "/avaya-example/static/js/main.d2fb4f5a.chunk.js",
+    "main.js.map": "/avaya-example/static/js/main.d2fb4f5a.chunk.js.map",
     "runtime-main.js": "/avaya-example/static/js/runtime-main.cff882fe.js",
     "runtime-main.js.map": "/avaya-example/static/js/runtime-main.cff882fe.js.map",
     "static/js/2.79b4313c.chunk.js": "/avaya-example/static/js/2.79b4313c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cff882fe.js",
     "static/js/2.79b4313c.chunk.js",
     "static/css/main.1b10506c.chunk.css",
-    "static/js/main.e5149866.chunk.js"
+    "static/js/main.d2fb4f5a.chunk.js"
   ]
 }
